@@ -1,0 +1,48 @@
+{
+  "brand": "KisanKhata",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "login": "Login",
+  "signup": "Sign Up",
+
+  "dashboard_title": "Farm Dashboard",
+  "reports_title": "Reports & Analysis",
+  "reports_note": "Easily download all your farm records and analyze your yearly performance.",
+
+  "add_expense": "Add Daily Expense",
+  "add_yield": "Add Crop Yield",
+  "date": "Date",
+  "category": "Category",
+  "amount": "Amount (₹)",
+  "notes": "Notes",
+  "save_expense": "Save Expense",
+  "crop_name": "Crop Name",
+  "quantity": "Quantity (in Quintals)",
+  "price_per_unit": "Price per Unit (₹)",
+  "save_yield": "Save Yield",
+
+  "profit_summary": "Profit Summary",
+  "total_expense": "Total Expense",
+  "total_income": "Total Income",
+  "net_profit": "Net Profit",
+  "profit_message": "Great job! You are earning profit 🎉",
+  "loss_message": "Be careful! You are running at a loss ⚠️",
+
+  "expense_chart": "Expense Chart",
+  "daily_expense": "Daily Expense (₹)",
+  "no_expense_data": "No expense data available to display 📊",
+
+  "report_export": "Export Reports",
+  "report_export_desc": "Download your farm expense and yield data for record keeping.",
+  "export_pdf": "Export PDF",
+  "export_excel": "Export Excel",
+
+  "login_title": "Welcome Back, Farmer!",
+  "login_subtitle": "Login to manage your farm records.",
+  "email": "Email",
+  "password": "Password",
+  "login_button": "Login",
+  "no_account": "Don’t have an account?",
+  "signup_link": "Sign up"
+}
